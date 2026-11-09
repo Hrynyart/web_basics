@@ -1,0 +1,39 @@
+/* Загальні налаштування */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+    margin: 40px;
+}
+
+/* Головний заголовок */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Другорядні заголовки */
+h2 {
+    color: #4169e1;
+}
+
+/* Абзаци */
+p {
+    font-size: 17px;
+    line-height: 1.6;
+}
+
+/* Зображення */
+img {
+    border-radius: 8px;
+}
+
+/* Посилання */
+a {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
