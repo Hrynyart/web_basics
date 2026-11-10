@@ -1,0 +1,86 @@
+
+/* 1 */
+body {
+    font-family: "PT Sans Narrow", serif;
+    font-size: 14px;
+    line-height: 1.25;
+    color: #777;
+}
+
+/* 2 */
+li ul {
+    font-style: italic;
+    font-weight: bold;
+}
+
+/* 3 */
+h1, h2 {
+    font-family: "Cormorant Infant", serif;
+    letter-spacing: 0.5px;
+    color: black;
+    text-transform: capitalize;
+}
+
+/* 4 */
+h1 {
+    font-size: 32px;
+}
+
+/* 5 */
+h2 {
+    font-size: 26px;
+}
+
+/* 6 */
+.double-line {
+    line-height: 2;
+}
+
+/* 7, 8 */
+.mail-box {
+    width: 150px;
+    box-sizing: border-box;
+    background-color: #E3FFF6;
+    border: 5px solid #C2E4C2;
+    padding: 5px 20px;
+}
+
+/* 9 */
+.mail-box a {
+    overflow-wrap: anywhere;
+}
+
+/* 10 */
+.mail-box a {
+    display: block;
+}
+
+/* 11 */
+p {
+    text-align: justify;
+}
+
+/* 12, 13 */
+.our-adv {
+    background-image: url("http://picsum.photos/id/357/700/400?blur=5");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    color: white;
+    font-size: 16px;
+}
+
+/* 14 */
+h2 {
+    margin-top: 60px;
+    margin-bottom: 0;
+}
+
+/* Службові стилі */
+.ruler {
+    width: 150px;
+    background-color: lime;
+    text-align: center;
+}
